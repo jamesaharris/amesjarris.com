@@ -1,1 +1,3 @@
 remote_theme: poole/hyde
+
+theme: jekyll-theme-minimal
