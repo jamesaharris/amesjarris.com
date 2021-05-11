@@ -9,12 +9,14 @@ I've been trying to figure out development and design. I'm using a raspberry pi 
 
 I also play soccer (though that stopped the day school went online) and really enjoy music. Since 7th grade my audio setup has changed from a surround sound made of computer speakers to a tower of Harmon/Kardon equipment in one room hooked up to 2 bookshelf speakers and a larger floor speaker and two MASSIVE Polk Audio references with a Samsung sub in another room.
 
+![Pink Floyd's "Pigs" album art](https://lh5.googleusercontent.com/oZV_pd9vRD32YjAhvtbitctl3y2aSJaPGTD_lAlAWBY-8HPwVw41QVoMFTlD5W9rV-gBAw)
+
 ---
+
 ## `Employability Skills`
 ###### 9 - 3 - 2020 (100 Seconds Left on the Doomsday Clock)
 
 
-`
 In this unit we learned how to be respectful in online meetings and in professional groups. We learned how to write formal emails to colleagues and supervisors. We talked about the importance of clarity and good communication online through netiquette. We learned about problem solving and a design cycle to create a product and solve hard problems.
 
 I learned the full details of netiquette and how it can improve your professionalism and your reputation. Having a good reputation can improve a companies ideas of you and that could reach someone higher up who could help pull you up too. I can use these professional skills for presentations for school and teams; and to communicate to companies asking for a sponsorship's or discounts to help create a product.
@@ -45,6 +47,8 @@ I made my model in Minecraft. I learned that the RAM of a computers is less for 
 
 Overall the unit was about the basics of a computer and what components are the most required.
 
+![Image of a "computer" I made in Minecraft](https://lh5.googleusercontent.com/-My77gwovdwzAVu2uDVz4Usq40wq3Z9p3DPSlKYQxGUHIamVt_Hbg9HS0htKojKd0WZOBg)
+
 ---
 
 ## `Learning HTML`
@@ -54,6 +58,8 @@ Overall the unit was about the basics of a computer and what components are the 
 In this unit we leaned about the basics of HTML and CSS. HTML is the language of the web, most pages use HTML to function. CSS is the language that give HTML some style, some better looks. Without these two languages our internet wouldn't be the same. We couldn't see sites how they work now. We learned about the different ways we could modify and bend the text and images to our will with CSS.
 
 In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough knowledge to make basic websites. Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites.
+
+{% include button.html url="https://www.google.com/url?q=https%3A%2F%2Fcodeprojects.org%2FrTQpToMs_YQ_Mm5LlITGfcHsKvwcqU1tHm170Xk2es8%2F&sa=D&sntz=1&usg=AFQjCNGAgDDzept8_Y-hSvCRtwwe0OKr0w" %}
 
 ---
 
@@ -91,3 +97,11 @@ At the beginning of this unit I didn't know anything about JavaScript, but progr
 In this unit we learned some python. We used the AutoAuto car library to control small Ai enabled cars. We learned basic computer vision, python programming, and conditionals. We learned how to handle the cars correctly and worked with digital classmates to control them corroboratively. We learned about some of the Boolean operators and arithmetic operators we could use in python including == (Equal to bool), != (Not equal to bool), < (Less than bool), and > (Greater than bool), // (Round to the nearest 1 after division operator) and ** (Exponential operator).
 
 In the time we were learning this I was doing that and learning on my own about Ai chatbots, computer vision using tensorflow, and more of the advanced sides of python. I've decided learning Java should be put on the back burner for now because it is so radically different from anything else I have used. I've learned how to use GitHub to document my findings in programming and have uploaded projects to my GitHub. In auto auto I learned about some of the parts of Ai and using computer vision with conditionals. I also learned some of the python operators that I could've been using to consolidate my code and make it easier to run and use. ````
+
+---
+
+## `Recreation of my Portfolio on Github`
+###### 6-11-2021 (16 Days left in my Middle School Years)
+
+
+This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and 
