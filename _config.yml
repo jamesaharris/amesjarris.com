@@ -1,4 +1,4 @@
-remote_theme: poole/lanyon
+remote_theme: henrythemes/jekyll-minimal-theme
 description: I'm just posting things here. Documenting my work in some computer science and posting designs. 
 logo: 'Untitled drawing (17).png'
 show_downloads: false
