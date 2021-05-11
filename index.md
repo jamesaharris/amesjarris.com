@@ -97,7 +97,7 @@ At the beginning of this unit I didn't know anything about JavaScript, but progr
 
 In this unit we learned some python. We used the AutoAuto car library to control small Ai enabled cars. We learned basic computer vision, python programming, and conditionals. We learned how to handle the cars correctly and worked with digital classmates to control them corroboratively. We learned about some of the Boolean operators and arithmetic operators we could use in python including == (Equal to bool), != (Not equal to bool), < (Less than bool), and > (Greater than bool), // (Round to the nearest 1 after division operator) and ** (Exponential operator).
 
-In the time we were learning this I was doing that and learning on my own about Ai chatbots, computer vision using tensorflow, and more of the advanced sides of python. I've decided learning Java should be put on the back burner for now because it is so radically different from anything else I have used. I've learned how to use GitHub to document my findings in programming and have uploaded projects to my GitHub. In auto auto I learned about some of the parts of Ai and using computer vision with conditionals. I also learned some of the python operators that I could've been using to consolidate my code and make it easier to run and use. ````
+In the time we were learning this I was doing that and learning on my own about Ai chatbots, computer vision using tensorflow, and more of the advanced sides of python. I've decided learning Java should be put on the back burner for now because it is so radically different from anything else I have used. I've learned how to use GitHub to document my findings in programming and have uploaded projects to my GitHub. In auto auto I learned about some of the parts of Ai and using computer vision with conditionals. I also learned some of the python operators that I could've been using to consolidate my code and make it easier to run and use. 
 
 ---
 
@@ -105,4 +105,4 @@ In the time we were learning this I was doing that and learning on my own about 
 ###### 6-11-2021 (16 Days left in my Middle School Years)
 
 
-This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and 
+This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and everything overall. I decided to make a website and Guthub Page to take note of and document my programs, experiments, and degins.
