@@ -73,6 +73,8 @@ Overall the unit was about the basics of a computer and what components are the 
 		Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites. </p>
 
 [Here's the code for this section!](https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c)
+
+
 ---
 
 ## `1st Semester Reflection`
