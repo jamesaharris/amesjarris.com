@@ -4,5 +4,3 @@ show_downloads: false
 markdown: kramdown
 title: null
 name: Home
-
-theme: jekyll-theme-tactile
