@@ -1,4 +1,6 @@
 ![Header](https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png?raw=true){:class="img-responsive"}
+
+
 # `James Harris's IDT Portfolio`
 ###### 8 - 20 - 2020 (~161 days since the world shutdown)
 
@@ -10,7 +12,7 @@ I've been trying to figure out development and design. I'm using a raspberry pi 
 
 I also play soccer (though that stopped the day school went online) and really enjoy music. Since 7th grade my audio setup has changed from a surround sound made of computer speakers to a tower of Harmon/Kardon equipment in one room hooked up to 2 bookshelf speakers and a larger floor speaker and two MASSIVE Polk Audio references with a Samsung sub in another room.
 
-<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/0011752a3fd198480be06ab09ec78e9dbf14d6a8/pf.jpg"></p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/pf.jpg?raw=true"></p>
 
 ---
 
@@ -21,6 +23,8 @@ I also play soccer (though that stopped the day school went online) and really e
 In this unit we learned how to be respectful in online meetings and in professional groups. We learned how to write formal emails to colleagues and supervisors. We talked about the importance of clarity and good communication online through netiquette. We learned about problem solving and a design cycle to create a product and solve hard problems.
 
 I learned the full details of netiquette and how it can improve your professionalism and your reputation. Having a good reputation can improve a companies ideas of you and that could reach someone higher up who could help pull you up too. I can use these professional skills for presentations for school and teams; and to communicate to companies asking for a sponsorship's or discounts to help create a product.
+
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/employability.png?raw=true"></p>
 
 ---
 
@@ -48,7 +52,8 @@ I made my model in Minecraft. I learned that the RAM of a computers is less for 
 
 Overall the unit was about the basics of a computer and what components are the most required.
 
-![Image of a "computer" I made in Minecraft](https://lh5.googleusercontent.com/-My77gwovdwzAVu2uDVz4Usq40wq3Z9p3DPSlKYQxGUHIamVt_Hbg9HS0htKojKd0WZOBg)
+
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/Computing.png?raw=true"></p>
 
 ---
 
