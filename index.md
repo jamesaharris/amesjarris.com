@@ -59,8 +59,6 @@ In this unit we leaned about the basics of HTML and CSS. HTML is the language of
 
 In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough knowledge to make basic websites. Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites.
 
-[Click me](http://www.google.com){: .btn}
-
 
 ---
 
