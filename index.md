@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png" style="float:left">
 </p>
- <ul>
-<li  markdown="1">
 
 # `James Harris's IDT Portfolio`
 ###### 8 - 20 - 2020 (~161 days since the world shutdown)
@@ -111,5 +109,4 @@ In the time we were learning this I was doing that and learning on my own about 
 
 This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and everything overall. I decided to make a website and Guthub Page to take note of and document my programs, experiments, and degins.
 
-  </li>
-</ul>
+
