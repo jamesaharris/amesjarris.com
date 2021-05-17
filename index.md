@@ -75,7 +75,6 @@ Overall the unit was about the basics of a computer and what components are the 
 This section was written in HTML. The code is at https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c
 
 
----
 
 ## `1st Semester Reflection`
 ###### 12 - 14 - 2020 (2 days since the vaccine came out / 108 until the public gets it)
