@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png" style="float:left">
-</p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png"></p>
 
 # `James Harris's IDT Portfolio`
 ###### 8 - 20 - 2020 (~161 days since the world shutdown)
