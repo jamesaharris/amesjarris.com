@@ -56,16 +56,23 @@ Overall the unit was about the basics of a computer and what components are the 
 <p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/Computing.png?raw=true"></p>
 
 ---
+<html>
+	<head>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
+	</head>
 
-## `Learning HTML`
-###### 11 - 10 - 2020 ( ~42 Days until 12 - 32 - 2020)
+<h1 style="font-family:Rubik; width:inherit; length:inherit; text-align:center; font-size:60px;">Learning HTML</h1>
+<p style="font-family:Ubuntu; width:inherit; length:inherit; text-align:center;"><b>11 - 10 - 2020 ( ~42 Days until 12 - 32 - 2020)</b></p>
+<p style="width:500px; font-size:20px">In this unit we leaned about the basics of HTML and CSS. HTML is the language of the web, most pages use HTML to function. CSS is the language that give HTML some style, some better looks. Without these two languages our internet wouldn't be the same. We couldn't see sites how they work now. We learned about the different ways we could modify and bend the text and images to our will with CSS. <p>
+<p style="width:500px; font-size:20px"> In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough  knowledge to make basic websites.
+		Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites. </p>
 
-
-In this unit we leaned about the basics of HTML and CSS. HTML is the language of the web, most pages use HTML to function. CSS is the language that give HTML some style, some better looks. Without these two languages our internet wouldn't be the same. We couldn't see sites how they work now. We learned about the different ways we could modify and bend the text and images to our will with CSS.
-
-In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough knowledge to make basic websites. Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites.
-
-
+[Here's the code for this section!](https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c)
 ---
 
 ## `1st Semester Reflection`
