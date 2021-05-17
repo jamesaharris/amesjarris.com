@@ -9,7 +9,7 @@ I've been trying to figure out development and design. I'm using a raspberry pi 
 
 I also play soccer (though that stopped the day school went online) and really enjoy music. Since 7th grade my audio setup has changed from a surround sound made of computer speakers to a tower of Harmon/Kardon equipment in one room hooked up to 2 bookshelf speakers and a larger floor speaker and two MASSIVE Polk Audio references with a Samsung sub in another room.
 
-![Pink Floyd's "Pigs" album art](https://lh5.googleusercontent.com/oZV_pd9vRD32YjAhvtbitctl3y2aSJaPGTD_lAlAWBY-8HPwVw41QVoMFTlD5W9rV-gBAw)
+![Pink Floyd's "Pigs" album art](pf.png)
 
 ---
 
