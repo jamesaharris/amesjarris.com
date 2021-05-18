@@ -72,7 +72,7 @@ Overall the unit was about the basics of a computer and what components are the 
 <p style="width:500px; font-size:20px"> In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough  knowledge to make basic websites.
 		Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites. </p>
 
-<script src="https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c.js"></script>
+This section was written in HTML as the work example [view the code here.](https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c)
 
 ---
 
@@ -101,6 +101,8 @@ In this unit we learned the basics of JavaScript. We explored its uses in animat
 
 At the beginning of this unit I didn't know anything about JavaScript, but progressed enough that I feel mostly comfortable using it to create smaller programs. I learned how to use my own JavaScript IDE (Visual Studio w/ Node.JS) to make a basic program outside of class. I learned that not every programming language uses the sleep( ) or delay( ) functions that I knew. JavaScript used a setTimout(function( ),ms) to work. While learning JavaScript in class I also decided to learn Java on the side. I learned some VERY basic syntax for that. I see both Java and JavaScript as valuable cross platform languages. With more experience in both I could hopefully program more advanced apps that work on almost every machine with either a web browser or Java. 
 
+<iframe width="432" height="717" style="border: 0px;" src="https://studio.code.org/projects/gamelab/_CKSveoPUvKk-MirOulLpImIHqroJhjgvQ8oje6aZtM/embed"></iframe>
+	
 ---
 
 ## `AutoAuto Labs I`
