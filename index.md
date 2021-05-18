@@ -151,7 +151,7 @@ This year has been weird, but it has given me the free time to learn a lot about
 
 ---
 
-## `IDT COUSE REFLECTION`
+## `IDT COURSE REFLECTION`
 ###### 5-18-2021 (3 Days left in IDT)
 	
 	
@@ -163,5 +163,5 @@ The course was very useful to me this year bringing in some programming topics I
 	
 Based on my classes next year I might not have too much use for computer sciences in 9th grade. I was able to change my electives from AP Human Geography and Into to Business Technology (Office for dummies) to Latin I and Foundations of Engineering and Technology. I hope I will be able to use some of my programming skills there. I will continue to use them on my own though and hope for some other classes in uppergrades to add on to engineering and computer sciences. I know my future job will need some of my skills from this point on and I will be ready for it. 
 	
-###### `Last edit was on 5-18-2021`
+###### `Last edit was on 5-18-2021 @ 3:50 PM`
 ###### #EatTheTurtle2021 | Long live Jerome
