@@ -139,9 +139,24 @@ In the time we were learning this I was doing that and learning on my own about 
 ---
 
 ## `Recreation of my Portfolio on Github`
-###### 6-11-2021 (16 Days left in my Middle School Years)
+###### 5-11-2021 (16 Days left in my Middle School Years)
 
 
-This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and everything overall. I decided to make a website and Guthub Page to take note of and document my programs, experiments, and degins.
+This year has been weird, but it has given me the free time to learn a lot about computer sciences, economy, biology, and everything overall. I decided to make a website and Guthub Page to take note of and document my programs, experiments, and designs.
 
+---
 
+## `IDT COUSE REFLECTION`
+###### 5-18-2021 (3 Days left in IDT)
+	
+	
+This was a different date in our history, we reopened after a whole lockdown. The world woke up and pulled itself together. The vaccine is still not entirely safe, but the virus is also not as bad as people thought. Everything is reopening and madates are lifting, churches, schools, sports, and stores. In this year I learned some of the most valuable computer science concepts in the lockdown. I learned networking as I strode to create game servers for me and friends and work around my reliance on Google. I learned programming in computer science for webpages and python that I can use with this networking to extend the reach of my programs from basic calculators and command line games to User Interfaces and multiuser content. I still used these python principles to create more complicated calculators in math and to make the backend for ai, chatbots, and integreations. I used the HTML to write this portfolio and use understanding of its structure to manage my server and create multiplatform games or apps (some are just fun to mess with my friends, they don't hurt anything and are easy to remove). 
+	
+In computer science we programmed cars with AI, created animations in Javascript (awful javascript), made sites in HTML, and figured out what we need to get employed at the jobs we want. I originally documented this in a Google Sites, but found out how to connect my GITHUB to my Domain (amesjarris.com) and created a website to use my skills on. The site is a mix of Markdown from a markdown parser to make it useable as a site and inline HTML to add some parts markdown can't do. 
+	
+The course was very useful to me this year bringing in some programming topics I just couldn't seem to learn myself. The digital start kinda sucked, but not because of the course it was just my state at the start. Everything sucked in lockdown it was boring repetition and forced zoom classes (which don't work), and broken lessons meant for an in person class. My favorite part was Auto Auto AI because we were able to use a physical device to learn python. It lacked some things which was really just down to mixed classes and wierd quirks in the software. I really enjoyed this class and don't think there is much to improve. Next year will be great without mixed classes.
+	
+Based on my classes next year I might not have too much use for computer sciences in 9th grade. I was able to change my electives from AP Human Geography and Into to Business Technology (Office for dummies) to Latin I and Foundations of Engineering and Technology. I hope I will be able to use some of my programming skills there. I will continue to use them on my own though and hope for some other classes in uppergrades to add on to engineering and computer sciences. I know my future job will need some of my skills from this point on and I will be ready for it. 
+	
+###### `Last edit was on 5-18-2021`
+###### #EatTheTurtle2021 | Long live Jerome
