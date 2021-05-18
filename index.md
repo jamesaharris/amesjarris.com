@@ -72,7 +72,7 @@ Overall the unit was about the basics of a computer and what components are the 
 <p style="width:500px; font-size:20px"> In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough  knowledge to make basic websites.
 		Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites. </p>
 
-<p>This section was written in HTML. The code is at https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c</p>
+<script src="https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c.js"></script>
 
 ---
 
