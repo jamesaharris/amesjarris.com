@@ -1,6 +1,6 @@
 ardescription: Amesjarris.com
 logo: 'Untitled drawing (17).png'
 show_downloads: false
-markdown: redcarpet
+markdown: gfm
 title: null
 name: Home
