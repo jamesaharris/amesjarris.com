@@ -39,6 +39,8 @@ I catalogued 5 careers: PCB Designer, UX/UI designer, Front-End developer, Elect
 
 I can use computer science skills I learn now to advance and have possible jobs open in the future. I also have more knowledge about what jobs use computer science and how jobs that aren't direct can also use it.
 
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/CS%20Reasearch.PNG?raw=true"></p>
+
 ---
 
 ## `What is computing?`
