@@ -1,4 +1,4 @@
-![Header](https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png?raw=true){:class="img-responsive"}
+![Header](https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png?raw=true)
 
 
 # `James Harris's IDT Portfolio`
@@ -72,9 +72,9 @@ Overall the unit was about the basics of a computer and what components are the 
 <p style="width:500px; font-size:20px"> In class I learned a lot about HTML. I started with no knowledge of HTML and ended with enough  knowledge to make basic websites.
 		Outside of class I learned about classes in HTML and using the position rule to move elements around the page or lock them in place. I learned about embeding images and styling them to match in with the site. In the future I will use these skills in Google sites and outside of it to add a little extra to my sites. </p>
 
-This section was written in HTML. The code is at https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c
+<p>This section was written in HTML. The code is at https://gist.github.com/jamesaharris/a96831059c3eb8d09b189369b0fb570c</p>
 
-
+---
 
 ## `1st Semester Reflection`
 ###### 12 - 14 - 2020 (2 days since the vaccine came out / 108 until the public gets it)
