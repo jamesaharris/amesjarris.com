@@ -101,8 +101,8 @@ In this unit we learned the basics of JavaScript. We explored its uses in animat
 
 At the beginning of this unit I didn't know anything about JavaScript, but progressed enough that I feel mostly comfortable using it to create smaller programs. I learned how to use my own JavaScript IDE (Visual Studio w/ Node.JS) to make a basic program outside of class. I learned that not every programming language uses the sleep( ) or delay( ) functions that I knew. JavaScript used a setTimout(function( ),ms) to work. While learning JavaScript in class I also decided to learn Java on the side. I learned some VERY basic syntax for that. I see both Java and JavaScript as valuable cross platform languages. With more experience in both I could hopefully program more advanced apps that work on almost every machine with either a web browser or Java. 
 
-<iframe width="432" height="717" style="border: 0px;" src="https://studio.code.org/projects/gamelab/_CKSveoPUvKk-MirOulLpImIHqroJhjgvQ8oje6aZtM/embed"></iframe>
-	
+[Work Example](https://studio.code.org/projects/gamelab/_CKSveoPUvKk-MirOulLpImIHqroJhjgvQ8oje6aZtM)	
+
 ---
 
 ## `AutoAuto Labs I`
@@ -112,6 +112,29 @@ At the beginning of this unit I didn't know anything about JavaScript, but progr
 In this unit we learned some python. We used the AutoAuto car library to control small Ai enabled cars. We learned basic computer vision, python programming, and conditionals. We learned how to handle the cars correctly and worked with digital classmates to control them corroboratively. We learned about some of the Boolean operators and arithmetic operators we could use in python including == (Equal to bool), != (Not equal to bool), < (Less than bool), and > (Greater than bool), // (Round to the nearest 1 after division operator) and ** (Exponential operator).
 
 In the time we were learning this I was doing that and learning on my own about Ai chatbots, computer vision using tensorflow, and more of the advanced sides of python. I've decided learning Java should be put on the back burner for now because it is so radically different from anything else I have used. I've learned how to use GitHub to document my findings in programming and have uploaded projects to my GitHub. In auto auto I learned about some of the parts of Ai and using computer vision with conditionals. I also learned some of the python operators that I could've been using to consolidate my code and make it easier to run and use. 
+	
+	'''
+	Here is an example of the car parking when it sees a red sheet of paper
+	It was made by James Harris and Alex Miller
+
+	'''
+	import car
+	from time import sleep
+
+	frame = car.capture()
+	color = car.classify_color(frame)
+
+	while True:
+
+	    frame = car.capture()
+	    color = car.classify_color(frame)
+
+	    if color == "red":
+		car.forward(0.5)
+		car.right(0.6)
+		car.forward(0.2)
+		car.left(0.6)
+		car.reverse(1.0)
 
 ---
 
