@@ -91,7 +91,8 @@ This year the class was similarly challenging to last year. I have some lower gr
 
 Sphero Bowling STEM Project. Landon Sturgeon, Jordan Thomas, and I are working on building a Wii Bowling type game in real life. I developed the program stack to control the Sphreo robot with a wiimote to launch it down the alley we built.
 
-![TRMS Gold Example](https://github.com/jamesaharris/amesjarris.com/blob/main/gold.PNG?raw=true)
+	
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/gold.PNG?raw=true"></p>
 	
 ---
 
