@@ -6,3 +6,7 @@ This site is to document my code and help to better illustrate my repos. I'm a s
 
 To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am helping my friend [Garrett](github.com/GarrettRector) with some of his projects and showing [London](github.com/N52PLAYS) some of how python and other languages work.
 
+
+<p align="center">
+  <a href="github.amesjarris.com/404.html">IDT Portfolio</a> | <a href=crossroads.jamesaharris.us>Google Site Page</a> | <a href="grector.dev">GRECTOR</a> | <a href="github.com/jamesaharris">My Repos<a>
+</p>
