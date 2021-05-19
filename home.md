@@ -8,5 +8,5 @@ To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am
 
 
 <p align="center">
-  <a href="github.amesjarris.com/404.html">IDT Portfolio</a> | <a href=crossroads.jamesaharris.us>Google Site Page</a> | <a href="grector.dev">GRECTOR</a> | <a href="github.com/jamesaharris">My Repos<a>
+  <a href="https://github.amesjarris.com/404.html">IDT Portfolio</a> | <a href=https://crossroads.jamesaharris.us>Google Site Page</a> | <a href="https://grector.dev">GRECTOR</a> | <a href="https://github.com/jamesaharris">My Repos<a>
 </p>
