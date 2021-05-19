@@ -8,8 +8,13 @@ To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am
 
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaharris&theme=light&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaharris&exclude_repo=amesjarris.com&theme=light&layout=compact" />
 </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=will-and-gill"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarrettRector&repo=RLAC"/>
 </p>
 
 <p align="center">
