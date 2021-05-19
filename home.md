@@ -1,2 +1,8 @@
-<p><img src="https://github.com/jamesaharris/amesjarris.com/blob/2a7731fc3ca2fb92af67554929c149c1a99f71fe/Untitled%20drawing%20(17).png?raw=true" alt="Header" /></p>
+<p><img src="https://raw.githubusercontent.com/jamesaharris/amesjarris.com/cd490c707cb8b1cbe4ae89a1e45b63ae9e7fdb85/assets/header.svg" alt="Header" /></p>
+
+# `Welcome to my site.`
+
+This site is to document my code and help to better illustrate my repos. I'm a student studying computer science and engineering. My work is *mostly* documented though github and on these Markdown pages.
+
+To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am helping my friend [Garrett](github.com/GarrettRector) with some of his projects and showing [London](github.com/N52PLAYS) some of how python and other languages work.
 
