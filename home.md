@@ -14,7 +14,7 @@ To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=will-and-gill"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarrettRector&repo=RLAC"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=will-and-gill"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=learning-lazarus"/>
 </p>
 
 <p align="center">
