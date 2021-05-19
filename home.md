@@ -6,6 +6,11 @@ This site is to document my code and help to better illustrate my repos. I'm a s
 
 To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am helping my friend [Garrett](github.com/GarrettRector) with some of his projects and showing [London](github.com/N52PLAYS) some of how python and other languages work.
 
+<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaharris&theme=light&layout=compact" />
+</a>
+</p>
 
 <p align="center">
   <a href="https://github.amesjarris.com/404.html">IDT Portfolio</a> | <a href=https://crossroads.jamesaharris.us>Google Site Page</a> | <a href="https://grector.dev">GRECTOR</a> | <a href="https://github.com/jamesaharris">My Repos<a>
