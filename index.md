@@ -4,7 +4,7 @@
 
 This site is to document my code and help to better illustrate my repos. I'm a student studying computer science and engineering. My work is *mostly* documented though github and on these Markdown pages.
 
-To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am helping my friend [Garrett](github.com/GarrettRector) with some of his projects and showing [London](github.com/N52PLAYS) some of how python and other languages work.
+To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I've been getting into some game development to go with my AI experiments. Saharan is my biggest experiment right now. It is a project to research and explore many different AIs and their applications as well as document them and attempt to develop my own. I have a little help from [@DavidKDodita](https://www.github.com/DavidKDodita) for a few of the branches to speed up the process of documenting and programming. 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
@@ -14,7 +14,7 @@ To check my repos go to [github.com/jamesaharris](github.com/jamesaharris). I am
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=will-and-gill"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=learning-lazarus"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=will-and-gill"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamesaharris&repo=Saharan-Echo"/>
 </p>
 
 <p align="center">
