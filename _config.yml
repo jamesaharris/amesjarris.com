@@ -4,3 +4,5 @@ show_downloads: false
 markdown: gfm
 title: null
 name: Home
+
+theme: jekyll-theme-minimal
