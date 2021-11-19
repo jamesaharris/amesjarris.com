@@ -1,2 +1,2 @@
 # amesjarris.com
-OK here is my site. It mostly works, I break it a lot, It shows off what I can do with HTML, Markdown, and Javascript. Jekyll Build does not like me, but I can deal with it. 
+Its my portfolio. Its where I post work for engineering, computer science, and school in general. 
