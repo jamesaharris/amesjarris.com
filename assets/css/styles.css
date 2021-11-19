@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean {
+  position: fixed;
+  width: 100%;
+}
+
+.nav-link {
+  color: rgba(55,67,77,1);
+}
+
