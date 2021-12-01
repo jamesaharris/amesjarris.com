@@ -12,7 +12,7 @@ I've been trying to figure out development and design. I'm using a raspberry pi 
 
 I also play soccer (though that stopped the day school went online) and really enjoy music. Since 7th grade my audio setup has changed from a surround sound made of computer speakers to a tower of Harmon/Kardon equipment in one room hooked up to 2 bookshelf speakers and a larger floor speaker and two MASSIVE Polk Audio references with a Samsung sub in another room.
 
-<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/pf.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/Legacy/pf.jpg?raw=true"></p>
 
 ---
 
@@ -24,7 +24,7 @@ In this unit we learned how to be respectful in online meetings and in professio
 
 I learned the full details of netiquette and how it can improve your professionalism and your reputation. Having a good reputation can improve a companies ideas of you and that could reach someone higher up who could help pull you up too. I can use these professional skills for presentations for school and teams; and to communicate to companies asking for a sponsorship's or discounts to help create a product.
 
-<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/employability.png?raw=true"></p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/Legacy/employability.png?raw=true"></p>
 
 ---
 
@@ -39,7 +39,7 @@ I catalogued 5 careers: PCB Designer, UX/UI designer, Front-End developer, Elect
 
 I can use computer science skills I learn now to advance and have possible jobs open in the future. I also have more knowledge about what jobs use computer science and how jobs that aren't direct can also use it.
 
-<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/CS%20Reasearch.PNG?raw=true"></p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/Legacy/CS%20Reasearch.PNG?raw=true"></p>
 
 ---
 
@@ -55,7 +55,7 @@ I made my model in Minecraft. I learned that the RAM of a computers is less for 
 Overall the unit was about the basics of a computer and what components are the most required.
 
 
-<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/Computing.png?raw=true"></p>
+<p align="center"><img src="https://github.com/jamesaharris/amesjarris.com/blob/Legacy/Computing.png?raw=true"></p>
 
 ---
 <html>
@@ -94,7 +94,7 @@ This year the class was similarly challenging to last year. I have some lower gr
 Sphero Bowling STEM Project. Landon Sturgeon, Jordan Thomas, and I are working on building a Wii Bowling type game in real life. I developed the program stack to control the Sphreo robot with a wiimote to launch it down the alley we built.
 
 	
-<p align="center" ><img src="https://github.com/jamesaharris/amesjarris.com/blob/main/gold.PNG?raw=true" border="10px"></p>
+<p align="center" ><img src="https://github.com/jamesaharris/amesjarris.com/blob/Legacy/gold.PNG?raw=true" border="10px"></p>
 	
 ---
 
