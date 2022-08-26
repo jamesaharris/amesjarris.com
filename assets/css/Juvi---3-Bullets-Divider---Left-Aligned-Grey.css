@@ -5,7 +5,7 @@
 .divider-left-50 {
   width: 50px;
   height: 10px;
-  background: url(../../assets/img/divider-100.png);
+  background: url(../../assets/img/divider-100.png?h=af4b3fd4c617263fd2dc7258333d8bb0);
   display: block;
   margin: 20px 10px 10px 0;
   background-size: contain;
