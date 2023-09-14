@@ -4,6 +4,11 @@ var ready = (callback) => {
 }
 
 ready(() => { 
+    const is_reduced_motion = window.matchMedia(`(prefers-reduced-motion: reduce)`) === true || window.matchMedia(`(prefers-reduced-motion: reduce)`).matches === true;
+    if( is_reduced_motion ) {
+        console.info( "%cBased on the accessibility settings of your operating system, this website has limited animations.", 'font-weight: bold' );
+    }
+
 
     /*
     ** Change icon - Social icons link
@@ -50,7 +55,7 @@ ready(() => {
     /*
     * Animation - Background Parallax
     */  
-    if( typeof simpleParallax !== 'undefined' ) {
+    if( typeof simpleParallax !== 'undefined' && !is_reduced_motion ) {
         var parallax = document.querySelectorAll('.lemmony-parallax .wp-block-cover__image-background');
         if( parallax ) {
             parallax.forEach( image => {
@@ -69,7 +74,7 @@ ready(() => {
     ** Animation - Blocks 
     */
     var sections = document.querySelectorAll('.lemmony-animation');
-    if( sections ) {
+    if( sections && !is_reduced_motion ) {
         sections.forEach( (section, index) => {
             section.classList.add( 'animation-inited' );
         });    
@@ -104,22 +109,24 @@ ready(() => {
     ** Animation - Counter
     */
     var counters = document.querySelectorAll('.wp-block-lemmony-companion-counter .lemmony-counter-wrapper');
-    counters.forEach( counter => {
-        new CountUp( counter.querySelector('.lemmony-counter-number'), counter.getAttribute('data-end'), {
-            startVal: parseInt( counter.getAttribute('data-start') ), 
-            enableScrollSpy: true,
-            duration: parseInt( counter.getAttribute('data-duration') ),
-            scrollSpyOnce: false,
-            scrollSpyDelay: 100,
+    if( counters ) {
+        counters.forEach( counter => {
+            new CountUp( counter.querySelector('.lemmony-counter-number'), counter.getAttribute('data-end'), {
+                startVal: parseInt( counter.getAttribute('data-start') ), 
+                enableScrollSpy: true,
+                duration: !is_reduced_motion ? parseInt( counter.getAttribute('data-duration') ) : 0,
+                scrollSpyOnce: false,
+                scrollSpyDelay: 100,
+            });
         });
-    });
+    }
 
 
     /*
     ** Animation - Typing text
     */
     var typedTexts = document.querySelectorAll('.lemmony-typing-wrapper');
-    if( typedTexts ) {
+    if( typedTexts && !is_reduced_motion ) {
         var options2 = {
             rootMargin: '0px',
             threshold: 0.25
@@ -194,20 +201,33 @@ ready(() => {
         var splides = document.querySelectorAll('.lemmony-splide');
         if( splides ) {
             splides.forEach( item => {
+                let ratio = item.getAttribute('data-aspect-ratio');
+                if( ratio ) {
+                    let parts = ratio.split(":");
+                    ratio = parseFloat(parts[1]) / parseFloat(parts[0]);
+                }
+
+                let speed = item.getAttribute('data-speed');
+                let speedMap = {
+                    "slow": 9000,
+                    "normal": 4500,
+                    "fast": 3000,
+                };
+
                 var splide = new Splide( item, {
                     drag: false,
                     type: 'loop',
                     direction: 'ttb',
                     wheel: true,
                     releaseWheel: true,
-                    heightRatio: 1,
+                    heightRatio: ratio ? ratio : 1,
                     gap: '15vh',
                     speed: 1000,
                     easing: 'cubic-bezier(1, 0, 0.1, 0.95)',
                     arrows: false,
                     pagination: false,
                     autoplay: true,
-                    interval: 4500,
+                    interval: speed ? speedMap[speed] : speedMap['normal'],
                     pauseOnHover: false,
                     waitForTransition: true,
                     resetProgress: false,
@@ -217,4 +237,22 @@ ready(() => {
             });
         }
     }
+
+
+    /*
+    ** Mobile navigation menu and X syncer
+    */
+    var navigation_icons = document.querySelectorAll('.wp-block-navigation__responsive-container-open');
+    if( navigation_icons ) {
+        navigation_icons.forEach( item => {
+            item.addEventListener("click", () => {
+                var top = item.getBoundingClientRect().top;
+                document.querySelector('.wp-block-navigation__responsive-dialog').style.paddingTop = ( top ) + 'px';
+                if( top > 40 ) {
+                    document.querySelector('.wp-block-navigation__responsive-container-close').style.top = top + 'px';
+                }
+            });
+        });
+    }
+
 });

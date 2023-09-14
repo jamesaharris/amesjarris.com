@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>(BC) Engineering</title>
 		<link>/bc-engineering/</link>
@@ -46,33 +46,33 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-6">
-<div class="wp-block-column is-layout-flow">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671.png" alt="" class="wp-image-140" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<div class="wp-block-columns is-layout-flex wp-container-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671.png" alt="" class="wp-image-140" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-18-32PM-000_CustomizedView5535332671-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-31-52PM-000_CustomizedView19465009545.png" alt="" class="wp-image-141" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-31-52PM-000_CustomizedView19465009545.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-31-52PM-000_CustomizedView19465009545-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-31-52PM-000_CustomizedView19465009545-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-31-52PM-000_CustomizedView19465009545-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-43-24PM-000_CustomizedView15703912484.png" alt="" class="wp-image-142" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-43-24PM-000_CustomizedView15703912484.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-43-24PM-000_CustomizedView15703912484-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-43-24PM-000_CustomizedView15703912484-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-43-24PM-000_CustomizedView15703912484-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525.png" alt="" class="wp-image-143" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525.png" alt="" class="wp-image-143" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-06_11-51-27PM-000_CustomizedView8941461525-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 
 
 
-<div class="wp-block-column is-layout-flow">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028.png" alt="" class="wp-image-144" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1000" height="1000" src="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028.png" alt="" class="wp-image-144" srcset="/wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028.png 1000w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-300x300.png 300w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-150x150.png 150w, /wp-content/uploads/2023/05/Trebuchet_2022-Dec-07_12-03-38AM-000_CustomizedView10099220028-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 </div>
 </div>
 ]]></content:encoded>
