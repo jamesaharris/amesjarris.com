@@ -12,7 +12,7 @@
 	<atom:link href="/tag/epicmchs/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>This is my interactive portfolio/resume. Hopefully the last one I have to write.</description>
-	<lastBuildDate>Tue, 30 May 2023 02:22:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 12:51:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -360,6 +360,7 @@
 		<dc:creator><![CDATA[jamesharris]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 02:03:43 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
 		<category><![CDATA[Engineering]]></category>
 		<category><![CDATA[EPIC@MCHS]]></category>
 		<guid isPermaLink="false">/?p=104</guid>

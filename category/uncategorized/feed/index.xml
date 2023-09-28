@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>This is my interactive portfolio/resume. Hopefully the last one I have to write.</description>
-	<lastBuildDate>Tue, 30 May 2023 02:22:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 12:53:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -360,6 +360,7 @@
 		<dc:creator><![CDATA[jamesharris]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 02:03:43 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
 		<category><![CDATA[Engineering]]></category>
 		<category><![CDATA[EPIC@MCHS]]></category>
 		<guid isPermaLink="false">/?p=104</guid>
@@ -424,6 +425,7 @@
 		<dc:creator><![CDATA[jamesharris]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 01:58:35 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
 		<guid isPermaLink="false">/?p=101</guid>
 
 					<description><![CDATA[n this program we worked on a water filter. Its a pretty simple project, but it was great to see the different ways people approached water purification. Some made basic filters with cotton, some made elaborate contraptions with heat, 3D printed parts, glue, the whole mix. Our version used a series of interlocking 3D printed [&#8230;]]]></description>
@@ -452,6 +454,7 @@
 		<dc:creator><![CDATA[jamesharris]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 01:56:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
 		<category><![CDATA[Engineering]]></category>
 		<category><![CDATA[MVHS]]></category>
 		<guid isPermaLink="false">/?p=94</guid>
@@ -506,6 +509,7 @@
 		<dc:creator><![CDATA[jamesharris]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 01:54:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
 		<category><![CDATA[Engineering]]></category>
 		<category><![CDATA[MVHS]]></category>
 		<guid isPermaLink="false">/?p=87</guid>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>MVHS &#8211; James Harris</title>
-	<atom:link href="/tag/mvhs/feed/" rel="self" type="application/rss+xml" />
+	<title>9th &#8211; James Harris</title>
+	<atom:link href="/tag/9th/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>This is my interactive portfolio/resume. Hopefully the last one I have to write.</description>
-	<lastBuildDate>Thu, 28 Sep 2023 12:53:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 12:53:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,100 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
+		<title>SodaMaker Project</title>
+		<link>/sodamaker-project/</link>
+					<comments>/sodamaker-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jamesharris]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 02:03:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[EPIC@MCHS]]></category>
+		<guid isPermaLink="false">/?p=104</guid>
+
+					<description><![CDATA[Without impacting the environment can we create an eye catching drink brand? In this project we designed a bottle that could be sold in one pack, but splits apart into 4 quarters to share. It was made out of biodegradable plastics and had a few small &#8220;gimmicks&#8221; like colors changing with temperature and a hand [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>Without impacting the environment can we create an eye catching drink brand?</p></blockquote></figure>
+
+
+
+<p>In this project we designed a bottle that could be sold in one pack, but splits apart into 4 quarters to share. It was made out of biodegradable plastics and had a few small &#8220;gimmicks&#8221; like colors changing with temperature and a hand shape on the bottle to make it stand out among the rest. we designed 4 flavors that were more interesting sodas than we would normally see. Flavors like Arnold Palmer, Raspberry Lemonade, Blue-Orange Coconut, and Cherry Limeade.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="1024" src="/wp-content/uploads/2023/05/20220429_214525-1024x1024.jpg" alt="" class="wp-image-106" srcset="/wp-content/uploads/2023/05/20220429_214525-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20220429_214525-300x300.jpg 300w, /wp-content/uploads/2023/05/20220429_214525-150x150.jpg 150w, /wp-content/uploads/2023/05/20220429_214525-768x768.jpg 768w, /wp-content/uploads/2023/05/20220429_214525-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20220429_214525.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/05/20220429_214501-1024x1024.jpg" alt="" class="wp-image-107" srcset="/wp-content/uploads/2023/05/20220429_214501-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20220429_214501-300x300.jpg 300w, /wp-content/uploads/2023/05/20220429_214501-150x150.jpg 150w, /wp-content/uploads/2023/05/20220429_214501-768x768.jpg 768w, /wp-content/uploads/2023/05/20220429_214501-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20220429_214501.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/05/20220429_214456-1024x1024.jpg" alt="" class="wp-image-108" srcset="/wp-content/uploads/2023/05/20220429_214456-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20220429_214456-300x300.jpg 300w, /wp-content/uploads/2023/05/20220429_214456-150x150.jpg 150w, /wp-content/uploads/2023/05/20220429_214456-768x768.jpg 768w, /wp-content/uploads/2023/05/20220429_214456-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20220429_214456.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20220429_214448-1024x1024.jpg" alt="" class="wp-image-109" srcset="/wp-content/uploads/2023/05/20220429_214448-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20220429_214448-300x300.jpg 300w, /wp-content/uploads/2023/05/20220429_214448-150x150.jpg 150w, /wp-content/uploads/2023/05/20220429_214448-768x768.jpg 768w, /wp-content/uploads/2023/05/20220429_214448-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20220429_214448.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20220429_214531-1024x1024.jpg" alt="" class="wp-image-110" srcset="/wp-content/uploads/2023/05/20220429_214531-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20220429_214531-300x300.jpg 300w, /wp-content/uploads/2023/05/20220429_214531-150x150.jpg 150w, /wp-content/uploads/2023/05/20220429_214531-768x768.jpg 768w, /wp-content/uploads/2023/05/20220429_214531-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20220429_214531.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+</div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="SodaMaker Video Submission" width="500" height="281" src="https://www.youtube.com/embed/lKVOb5h6HnQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sodamaker-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BECOME</title>
+		<link>/become/</link>
+					<comments>/become/#respond</comments>
+		
+		<dc:creator><![CDATA[jamesharris]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 01:58:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
+		<guid isPermaLink="false">/?p=101</guid>
+
+					<description><![CDATA[n this program we worked on a water filter. Its a pretty simple project, but it was great to see the different ways people approached water purification. Some made basic filters with cotton, some made elaborate contraptions with heat, 3D printed parts, glue, the whole mix. Our version used a series of interlocking 3D printed [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>n this program we worked on a water filter. Its a pretty simple project, but it was great to see the different ways people approached water purification. Some made basic filters with cotton, some made elaborate contraptions with heat, 3D printed parts, glue, the whole mix. </p>
+
+
+
+<p>Our version used a series of interlocking 3D printed sections with activated carbon in between, prefaced by a chlorine and iodine treatment. It was pretty simple and an elegant solution if it worked as intended. It didn&#8217;t. the device did work, but leaked and we realized water and air pressure would be an issue. Water just would not move through the filter because air could not fill the bottle on top to take its place. The lack of air in the system meant that the bottle would collapse in on itself so you had a squeeze the system to work right.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="183" src="/wp-content/uploads/2023/05/image-removebg-preview-1024x183.png" alt="" class="wp-image-102" srcset="/wp-content/uploads/2023/05/image-removebg-preview-1024x183.png 1024w, /wp-content/uploads/2023/05/image-removebg-preview-300x54.png 300w, /wp-content/uploads/2023/05/image-removebg-preview-768x137.png 768w, /wp-content/uploads/2023/05/image-removebg-preview.png 1179w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/become/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Cardboard Chairs</title>
 		<link>/cardboard-chairs/</link>
 					<comments>/cardboard-chairs/#respond</comments>
@@ -38,21 +132,21 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-12 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="1024" src="/wp-content/uploads/2023/05/20211108_130659-1024x1024.jpg" alt="" class="wp-image-95" srcset="/wp-content/uploads/2023/05/20211108_130659-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20211108_130659-300x300.jpg 300w, /wp-content/uploads/2023/05/20211108_130659-150x150.jpg 150w, /wp-content/uploads/2023/05/20211108_130659-768x769.jpg 768w, /wp-content/uploads/2023/05/20211108_130659-1534x1536.jpg 1534w, /wp-content/uploads/2023/05/20211108_130659.jpg 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20211108_130659-1024x1024.jpg" alt="" class="wp-image-95" srcset="/wp-content/uploads/2023/05/20211108_130659-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20211108_130659-300x300.jpg 300w, /wp-content/uploads/2023/05/20211108_130659-150x150.jpg 150w, /wp-content/uploads/2023/05/20211108_130659-768x769.jpg 768w, /wp-content/uploads/2023/05/20211108_130659-1534x1536.jpg 1534w, /wp-content/uploads/2023/05/20211108_130659.jpg 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2023/05/20211116_122448-1024x1024.jpg" alt="" class="wp-image-96" srcset="/wp-content/uploads/2023/05/20211116_122448-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20211116_122448-300x300.jpg 300w, /wp-content/uploads/2023/05/20211116_122448-150x150.jpg 150w, /wp-content/uploads/2023/05/20211116_122448-768x768.jpg 768w, /wp-content/uploads/2023/05/20211116_122448-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20211116_122448.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20211116_122448-1024x1024.jpg" alt="" class="wp-image-96" srcset="/wp-content/uploads/2023/05/20211116_122448-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20211116_122448-300x300.jpg 300w, /wp-content/uploads/2023/05/20211116_122448-150x150.jpg 150w, /wp-content/uploads/2023/05/20211116_122448-768x768.jpg 768w, /wp-content/uploads/2023/05/20211116_122448-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20211116_122448.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="960" src="/wp-content/uploads/2023/05/aesthetics.png" alt="" class="wp-image-97" srcset="/wp-content/uploads/2023/05/aesthetics.png 960w, /wp-content/uploads/2023/05/aesthetics-300x300.png 300w, /wp-content/uploads/2023/05/aesthetics-150x150.png 150w, /wp-content/uploads/2023/05/aesthetics-768x768.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="960" height="960" src="/wp-content/uploads/2023/05/aesthetics.png" alt="" class="wp-image-97" srcset="/wp-content/uploads/2023/05/aesthetics.png 960w, /wp-content/uploads/2023/05/aesthetics-300x300.png 300w, /wp-content/uploads/2023/05/aesthetics-150x150.png 150w, /wp-content/uploads/2023/05/aesthetics-768x768.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 </div>
 
 
@@ -93,7 +187,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-12 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-18 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20210921_055520-1024x1024.jpg" alt="" class="wp-image-88" srcset="/wp-content/uploads/2023/05/20210921_055520-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20210921_055520-300x300.jpg 300w, /wp-content/uploads/2023/05/20210921_055520-150x150.jpg 150w, /wp-content/uploads/2023/05/20210921_055520-768x768.jpg 768w, /wp-content/uploads/2023/05/20210921_055520-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20210921_055520.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
@@ -148,7 +242,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-18 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-24 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2023/05/20210830_123415-1024x1024.jpg" alt="" class="wp-image-79" srcset="/wp-content/uploads/2023/05/20210830_123415-1024x1024.jpg 1024w, /wp-content/uploads/2023/05/20210830_123415-300x300.jpg 300w, /wp-content/uploads/2023/05/20210830_123415-150x150.jpg 150w, /wp-content/uploads/2023/05/20210830_123415-768x768.jpg 768w, /wp-content/uploads/2023/05/20210830_123415-1536x1536.jpg 1536w, /wp-content/uploads/2023/05/20210830_123415.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
@@ -180,6 +274,31 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/plate-drops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Virtual Job Shadow #1</title>
+		<link>/virtual-job-shadow-1/</link>
+					<comments>/virtual-job-shadow-1/#respond</comments>
+		
+		<dc:creator><![CDATA[jamesharris]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 01:46:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[9th]]></category>
+		<guid isPermaLink="false">/?p=76</guid>
+
+					<description><![CDATA[This section was boring&#8230; We worked on the usual career readiness that we have to do in every engineering/tech/fun skills class. We looked over career predictions from the computer, where we would be best fit, and where we would not work. It wasn&#8217;t life transforming or really memorable.&#160;]]></description>
+										<content:encoded><![CDATA[
+<p>This section was boring&#8230;</p>
+
+
+
+<p>We worked on the usual career readiness that we have to do in every engineering/tech/fun skills class. We looked over career predictions from the computer, where we would be best fit, and where we would not work. It wasn&#8217;t life transforming or really memorable.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/virtual-job-shadow-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
